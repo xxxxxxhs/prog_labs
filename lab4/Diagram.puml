@@ -1,0 +1,31 @@
+@startuml Diagram
+abstract class GeneralObj
+Class Entity extends GeneralObj
+Class Inanimate extends GeneralObj
+Class Environment extends GeneralObj
+
+Interface Book
+Interface Thoughts 
+Interface Move
+
+Enum Prepositions
+
+Class InvalidNumberException extends Exception
+Class ThinkNothingException extends Exception
+
+Prepositions <|-- Entity
+Prepositions <|-- Environment
+Prepositions <|-- Inanimate
+
+Thoughts <|.. Entity
+Move <|.. Entity
+
+Class Main
+Book <|.. Main
+
+Class Walker
+Entity +-- Walker
+
+class Tool
+GeneralObj +-- Tool
+@enduml

@@ -1,0 +1,346 @@
+[
+  {
+    "id": 4,
+    "name": "avengers",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290515",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "b",
+    "coordinates": {
+      "x": 1.0,
+      "y": 5.0
+    },
+    "creationDate": "2024-02-11T15:02:17.949957",
+    "oscarsCount": 5,
+    "goldenPalmCount": 8,
+    "totalBoxOffice": 25.0,
+    "mpaaRating": "PG_13",
+    "screenwriter": {
+      "name": "Vasyan",
+      "passportID": "666",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 3.0,
+        "z": 2,
+        "name": "spb"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "eeeee",
+    "coordinates": {
+      "x": 112.0,
+      "y": 22.0
+    },
+    "creationDate": "2024-03-01T15:58:22.749636",
+    "goldenPalmCount": 2,
+    "mpaaRating": "G",
+    "screenwriter": {
+      "name": "fff",
+      "passportID": "3",
+      "eyeColor": "BLACK",
+      "hairColor": "BLACK",
+      "location": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2,
+        "name": "hell"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "iron man",
+    "coordinates": {
+      "x": 43.0,
+      "y": 2.0
+    },
+    "creationDate": "2024-03-31T21:18:22.562934",
+    "goldenPalmCount": 234,
+    "totalBoxOffice": 34.0,
+    "mpaaRating": "G",
+    "screenwriter": {
+      "name": "Tony",
+      "passportID": "123",
+      "eyeColor": "BLUE",
+      "hairColor": "BLUE",
+      "location": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2,
+        "name": "23"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "prestige",
+    "coordinates": {
+      "x": 3.4532452E11,
+      "y": 2.3452343523E10
+    },
+    "creationDate": "2024-03-01T15:29:14.351705",
+    "goldenPalmCount": 454,
+    "mpaaRating": "G",
+    "screenwriter": {
+      "name": "gfhjf",
+      "passportID": "k",
+      "eyeColor": "BLACK",
+      "hairColor": "BLACK",
+      "location": {
+        "x": 32.0,
+        "y": 2.0,
+        "z": 2,
+        "name": "farland"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290378",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290562",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290602",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290647",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290685",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290727",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290767",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "spider-man",
+    "coordinates": {
+      "x": 600.0,
+      "y": 500.0
+    },
+    "creationDate": "2024-03-31T22:49:48.290811",
+    "oscarsCount": 5,
+    "goldenPalmCount": 6,
+    "totalBoxOffice": 78.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "alex",
+      "passportID": "123",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 3,
+        "name": "add"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "walking    dead",
+    "coordinates": {
+      "x": 3.0,
+      "y": 3.0
+    },
+    "creationDate": "2024-03-03T15:37:20.338357",
+    "goldenPalmCount": 3,
+    "totalBoxOffice": 2.0,
+    "mpaaRating": "G",
+    "screenwriter": {
+      "name": "  adsad   qq  q",
+      "passportID": "  dqwd dwq   qdq",
+      "eyeColor": "RED",
+      "hairColor": "RED",
+      "location": {
+        "x": 33.0,
+        "y": 33.0,
+        "z": 33,
+        "name": "dwad  add  qq"
+      }
+    }
+  }
+]

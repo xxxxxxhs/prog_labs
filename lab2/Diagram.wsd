@@ -1,0 +1,30 @@
+@startuml Diagram
+Class Swinub extends Pokemon
+Class Piloswine extends Swinub
+Class Mamoswine extends Piloswine
+
+Class Rattata extends Pokemon
+Class Raticate extends Rattata
+
+Class HoopaConfined extends Pokemon
+
+together {
+    Class DamageMove extends Move
+    Class SpecialMove extends DamageMove
+    Class PhysicalMove extends DamageMove
+
+    Class StatusMove extends Move
+
+    Class Bulldoze extends PhysicalMove
+    Class Confide extends StatusMove
+    Class Confusion extends SpecialMove
+    Class DoubleHit extends PhysicalMove
+    Class HyperFang extends PhysicalMove
+    Class IceBeam extends SpecialMove
+    Class IcyWind extends SpecialMove
+    Class PsyBeam extends SpecialMove
+    Class Rest extends StatusMove
+    Class Swagger extends StatusMove
+    Class SwordsDance extends StatusMove
+}
+@enduml

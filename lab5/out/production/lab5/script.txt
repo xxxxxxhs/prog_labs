@@ -1,0 +1,18 @@
+head
+update 7
+spider-man
+600
+500
+5
+6
+78
+PG
+alex
+123
+YELLOW
+YELLOW
+1
+2
+3
+home
+history

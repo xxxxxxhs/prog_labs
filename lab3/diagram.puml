@@ -1,0 +1,14 @@
+@startuml diagram
+abstract class GeneralObj
+class Entity extends GeneralObj
+class Environment extends GeneralObj
+class Inanimate extends GeneralObj
+interface Move
+interface Thoughts
+enum Prepositions
+Prepositions <|- Entity
+Prepositions <|- Environment
+Entity <|- Move
+Entity <|- Thoughts
+
+@enduml
